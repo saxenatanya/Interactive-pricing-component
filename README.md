@@ -10,13 +10,8 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -32,12 +27,10 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/saxenatanya/Interactive-pricing-component
+- Live Site URL: https://saxenatanya.github.io/Interactive-pricing-component/
 
 ## My process
 I started with making the structure first then fucntionality  and then all the look part in the end.
@@ -53,7 +46,6 @@ I started with making the structure first then fucntionality  and then all the l
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@saxenatanya](https://www.frontendmentor.io/profile/saxenatanyahttps://www.frontendmentor.io/profile/saxenatanya)
+- LinkedIn- [@Tanyasaxena](https://www.linkedin.com/in/tanya-saxena-1759311b8/)
 
