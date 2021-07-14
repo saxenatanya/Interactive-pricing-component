@@ -9,7 +9,6 @@ input.addEventListener('click', updateValue);
 
 function updateValue(e) {
   const targetvar = e.target.value;
-//   console.log(targetvar);
   if(targetvar > 1 && targetvar <8) {
     log.textContent = '8';
     views.textContent='10K';
