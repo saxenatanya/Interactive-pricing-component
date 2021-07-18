@@ -6,7 +6,7 @@ body,html{
     height:100%;
     font-family: 'Manrope', sans-serif;
     color: hsl(225, 20%, 60%);
-    background-image: url(/images/bg-pattern.svg);
+    background-image: url(./images/bg-pattern.svg);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
