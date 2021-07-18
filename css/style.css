@@ -6,7 +6,7 @@ body,html{
     height:100%;
     font-family: 'Manrope', sans-serif;
     color: hsl(225, 20%, 60%);
-    background-image: url(./images/bg-pattern.svg);
+    background-image: url(../images/bg-pattern.svg);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -37,7 +37,7 @@ h6 {
     padding-top: .5rem;
 }
 .section-1-text{
-    background-image: url(/images/pattern-circles.svg);
+    background-image: url(../images/pattern-circles.svg);
     background-repeat: no-repeat;
     background-position-x: center;
 }
@@ -74,8 +74,6 @@ small.discount {
 }
 
 input[type='range'] {
-    /* overflow: hidden; */
-    /* width: 80px; */
     -webkit-appearance: none;
     background-color: #53ffdd;
    
@@ -90,7 +88,7 @@ input[type='range'] {
 width: 40px;
 height: 40px;
 border-radius: 30px;
-background: url(/images/icon-slider.svg) no-repeat center,hsl(174, 77%, 80%);;
+background: url(../images/icon-slider.svg) no-repeat center,hsl(174, 77%, 80%);;
 -webkit-transition: .2s;
 transition: .2s;
 cursor: point;
@@ -245,7 +243,7 @@ input:checked + .sliderbutton {
     width: 40px;
     height: 40px;
     border-radius: 30px;
-    background: url(/images/icon-slider.svg) no-repeat center,  hsl(174, 86%, 45%);;
+    background: url(../images/icon-slider.svg) no-repeat center,  hsl(174, 86%, 45%);;
     -webkit-transition: .2s;
     transition: .2s;
     cursor: point;
@@ -254,7 +252,7 @@ input:checked + .sliderbutton {
   }
   
   .slider::-webkit-slider-thumb:hover {
-    background: url(/images/icon-slider.svg) no-repeat center, hsl(174, 86%, 45%);
+    background: url(../images/icon-slider.svg) no-repeat center, hsl(174, 86%, 45%);
   }
   
   #mydiv {
