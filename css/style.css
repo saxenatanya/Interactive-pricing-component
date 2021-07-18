@@ -273,9 +273,9 @@ input:checked + .sliderbutton {
 
 
 
-@media only screen and (max-width:1237px) {
+@media only screen and (max-width:1244px) {
     .whiteboard{
-        height: 55%;
+        height: 58%;
         width: 45%;
     }
 }
@@ -327,35 +327,50 @@ input:checked + .sliderbutton {
     }
 }
 
-@media only screen and (max-width:681px){
+@media only screen and (max-width:684px){
     .whiteboard{
-        height: 105%;
+        height: 110%;
         width: 55%;
+    }
+    footer{
+        display: none;
     }
 }
 
-@media only screen and (max-width:545px){
+@media only screen and (max-width:547px){
     .whiteboard{
         height: 155%;
         width: 55%;
     }
-}
-@media only screen and (max-width:454px){
-    .whiteboard{
-        height: 185%;
-        width: 55%;
+    footer{
+        display: none;
     }
 }
-@media only screen and (max-width:341px){
+@media only screen and (max-width:457px){
+    .whiteboard{
+        height: 190%;
+        width: 55%;
+    }
+    footer{
+        display: none;
+    }
+}
+@media only screen and (max-width:343px){
     .whiteboard{
         height: 305%;
         width: 85%;
     }
+    footer{
+        display: none;
+    }
 }
-@media only screen and (max-width:272px){
+@media only screen and (max-width:275px){
     .whiteboard{
         height: 350%;
         width: 85%;
+    }
+    footer{
+        display: none;
     }
 }
 
